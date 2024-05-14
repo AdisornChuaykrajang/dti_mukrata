@@ -1,16 +1,6 @@
 # dtu_mukrata_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/AdisornNangnoi/dti_mukrata/assets/113957028/0af5c3a4-5523-422c-ae28-747bcf5d66d6)
+![image](https://github.com/AdisornNangnoi/dti_mukrata/assets/113957028/2bb66138-c4b7-4973-9681-4d409fbcb0c6)
+![image](https://github.com/AdisornNangnoi/dti_mukrata/assets/113957028/72534f0f-756b-4628-831c-40a56972cf64)
+![image](https://github.com/AdisornNangnoi/dti_mukrata/assets/113957028/151ad987-8acf-4fa5-90ae-678885e454d9)
